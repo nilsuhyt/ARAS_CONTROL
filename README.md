@@ -17,6 +17,6 @@
 > ```
 
 Test değişkeni altındaki verilerin kontrolunü sağlamak için  **uint8_t toplam** adında bir değişken tanımladık.
-```
 
-```
+![Ekran görüntüsü 2024-03-22 232344](https://github.com/nilsuhyt/ARAS_CONTROL/assets/158216829/2db0baa2-beae-4dad-adf7-cd99550bef87)
+
