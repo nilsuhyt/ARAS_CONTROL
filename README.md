@@ -16,4 +16,7 @@
 >Aras_Control test;
 > ```
 
-Test değişkeni altındaki verilerin kontrolunü sağlamak için  **uint8_t toplam**
+Test değişkeni altındaki verilerin kontrolunü sağlamak için  **uint8_t toplam** adında bir değişken tanımladık.
+```
+
+```
