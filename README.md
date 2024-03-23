@@ -20,3 +20,15 @@ Test değişkeni altındaki verilerin kontrolunü sağlamak için  **uint8_t top
 
 ![Ekran görüntüsü 2024-03-22 232344](https://github.com/nilsuhyt/ARAS_CONTROL/assets/158216829/2db0baa2-beae-4dad-adf7-cd99550bef87)
 
+Toplam değişkeninin değerini binary sayı sistemine çevirdiğimizde kontrol ettiğimiz değerlerin hangisinin hatalı olduğunu görebileceğiz.
+
+> [!TIP]
+> 1. Taşıyıcı iniş hızında sapma durumu
+> 2. Görev yükü iniş hızı istenilen değerde
+> 3. Taşıyıcı basınç bilgisi alınıyor
+> 4. Görev yükünden konum verisi alınama durumu
+> 5. Ayrılma gerçekleşmedi
+>    
+>  **toplam** değişkeni 21 değerini alır
+> 
+>  Binary sayı sisteminde hata [ 1 0 0 1 1] şeklinde gözükür
