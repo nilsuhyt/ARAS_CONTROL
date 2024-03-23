@@ -10,7 +10,7 @@
 > uint32_t carrier_pressure;
 > float payload_GPS_Latitude;
 > float payload_GPS_Longitude;
-> float payload_GPS_Altitude;
+> float payload_GPS_Altitude; // !!Veri gelip gelmediğini 0 ile kontrol ettik. 
 > uint8_t Seperation_State;
 > }Aras_Control;
 >Aras_Control test;
