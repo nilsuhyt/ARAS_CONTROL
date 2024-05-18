@@ -26,9 +26,9 @@ Toplam değişkeninin değerini binary sayı sistemine çevirdiğimizde kontrol 
 > 1. Taşıyıcı iniş hızında sapma durumu
 > 2. Görev yükü iniş hızı istenilen değerde
 > 3. Taşıyıcı basınç bilgisi alınıyor
-> 4. Görev yükünden konum verisi alınama durumu
+> 4. Görev yükünden konum verisi alınamama durumu
 > 5. Ayrılma gerçekleşmedi
 >    
->  **toplam** değişkeni 21 değerini alır
+>  **toplam** değişkeni 19 değerini alır
 > 
 >  Binary sayı sisteminde hata [ 1 0 0 1 1] şeklinde gözükür
